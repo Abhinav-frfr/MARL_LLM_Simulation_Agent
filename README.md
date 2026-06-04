@@ -19,7 +19,13 @@ A modular AI ecosystem where specialized LLM agents collaborate, reason, observe
 # 🎥 Demo Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="750"/>
+
+https://github.com/user-attachments/assets/your-demo-video.mp4
+
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/oqK1JpkIBtEAAAAC/ai-artificial-intelligence.gif" width="850"/>
 </p>
 
 ---
@@ -319,24 +325,6 @@ Agents refine behavior using reinforcement signals.
 
 ---
 
-# 📹 Suggested Demo Video
-
-You can create a project demo using:
-
-* OBS Studio
-* Loom
-* Screen Studio
-
-### Suggested Demo Flow
-
-1. Explain project architecture
-2. Show agent responsibilities
-3. Run simulation
-4. Display outputs and rewards
-5. Explain MARL learning loop
-
----
-
 # 🧪 Research Applications
 
 This framework can be used for:
@@ -379,14 +367,6 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
 
 ## Abhinav Singh
-
-Passionate about:
-
-* Generative AI
-* Multi-Agent Systems
-* Reinforcement Learning
-* LLM Engineering
-* AI Research
 
 ---
 
