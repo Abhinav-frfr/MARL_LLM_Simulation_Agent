@@ -41,10 +41,49 @@ The agents collaborate together in a shared simulation environment and continuou
 
 # 🧩 System Architecture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/autogen-agentchat.png" width="850"/>
-</p>
-
+```mermaid
+graph TB
+    subgraph Input["Input Layer"]
+        UI["User Input"]
+        ENV["Environment State"]
+    end
+    
+    subgraph Agents["Agent Ecosystem"]
+        OA["👁️ Observation Agent"]
+        RA["🧠 Reasoning Agent"]
+        DA["🎯 Decision Agent"]
+        AA["💬 Advice Agent"]
+        FA["📈 Feedback Agent"]
+        SA["📝 Summarization Agent"]
+    end
+    
+    subgraph MARL["MARL Core"]
+        POLICY["Policy Network"]
+        VALUE["Value Function"]
+        REWARD["Reward System"]
+        MEMORY["Experience Replay"]
+    end
+    
+    subgraph Output["Output Layer"]
+        ACTION["Action Execution"]
+        RESULT["Simulation Result"]
+    end
+    
+    UI --> OA
+    ENV --> OA
+    OA --> RA
+    RA --> DA
+    DA --> AA
+    AA --> FA
+    FA --> POLICY
+    POLICY --> VALUE
+    VALUE --> REWARD
+    REWARD --> MEMORY
+    MEMORY --> SA
+    SA --> ACTION
+    ACTION --> RESULT
+    RESULT --> ENV
+```
 ---
 
 # ⚡ Key Features
@@ -373,7 +412,5 @@ If you like this project:
 ---
 
 <div align="center">
-
-# 🚀 Building the Future of Collaborative AI Systems
 
 </div>
