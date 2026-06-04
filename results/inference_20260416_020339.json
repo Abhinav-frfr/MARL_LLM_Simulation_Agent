@@ -1,0 +1,176 @@
+{
+  "timestamp": "20260416_020339",
+  "config": {
+    "G": 8,
+    "H": 20,
+    "target": 0.7
+  },
+  "results": {
+    "best_score": 0.6137566137566138,
+    "goal": false,
+    "steps": 20,
+    "joint_reward": 0.23520923520923537
+  },
+  "steps": [
+    {
+      "step": 1,
+      "action": "SHAKE",
+      "score_before": 0.3809523809523809,
+      "score_after": 0.40476190476190466,
+      "joint_reward": 0.02380952380952378,
+      "advice_used": true
+    },
+    {
+      "step": 2,
+      "action": "SHAKE",
+      "score_before": 0.40476190476190466,
+      "score_after": 0.42222222222222217,
+      "joint_reward": 0.01746031746031751,
+      "advice_used": false
+    },
+    {
+      "step": 3,
+      "action": "ADD_HEAVY",
+      "score_before": 0.42222222222222217,
+      "score_after": 0.40350877192982443,
+      "joint_reward": -0.018713450292397737,
+      "advice_used": false
+    },
+    {
+      "step": 4,
+      "action": "ADD_NORMAL",
+      "score_before": 0.40350877192982443,
+      "score_after": 0.4444444444444445,
+      "joint_reward": 0.04093567251462005,
+      "advice_used": false
+    },
+    {
+      "step": 5,
+      "action": "SHAKE",
+      "score_before": 0.4444444444444445,
+      "score_after": 0.37499999999999994,
+      "joint_reward": -0.06944444444444453,
+      "advice_used": false
+    },
+    {
+      "step": 6,
+      "action": "ADD_NORMAL",
+      "score_before": 0.37499999999999994,
+      "score_after": 0.41379310344827586,
+      "joint_reward": 0.03879310344827591,
+      "advice_used": false
+    },
+    {
+      "step": 7,
+      "action": "SHAKE",
+      "score_before": 0.41379310344827586,
+      "score_after": 0.44444444444444453,
+      "joint_reward": 0.030651340996168674,
+      "advice_used": false
+    },
+    {
+      "step": 8,
+      "action": "ADD_NORMAL",
+      "score_before": 0.44444444444444453,
+      "score_after": 0.4482758620689656,
+      "joint_reward": 0.0038314176245210496,
+      "advice_used": false
+    },
+    {
+      "step": 9,
+      "action": "ADD_NORMAL",
+      "score_before": 0.4482758620689656,
+      "score_after": 0.44117647058823534,
+      "joint_reward": -0.007099391480730244,
+      "advice_used": false
+    },
+    {
+      "step": 10,
+      "action": "SHAKE",
+      "score_before": 0.44117647058823534,
+      "score_after": 0.48809523809523814,
+      "joint_reward": 0.0469187675070028,
+      "advice_used": true
+    },
+    {
+      "step": 11,
+      "action": "ADD_HEAVY",
+      "score_before": 0.48809523809523814,
+      "score_after": 0.49494949494949503,
+      "joint_reward": 0.0068542568542568905,
+      "advice_used": false
+    },
+    {
+      "step": 12,
+      "action": "ADD_LIGHT",
+      "score_before": 0.49494949494949503,
+      "score_after": 0.48648648648648657,
+      "joint_reward": -0.008463008463008459,
+      "advice_used": false
+    },
+    {
+      "step": 13,
+      "action": "ADD_LIGHT",
+      "score_before": 0.48648648648648657,
+      "score_after": 0.5271317829457365,
+      "joint_reward": 0.04064529645924991,
+      "advice_used": false
+    },
+    {
+      "step": 14,
+      "action": "ADD_HEAVY",
+      "score_before": 0.5271317829457365,
+      "score_after": 0.5579710144927537,
+      "joint_reward": 0.030839231547017176,
+      "advice_used": false
+    },
+    {
+      "step": 15,
+      "action": "ADD_NORMAL",
+      "score_before": 0.5579710144927537,
+      "score_after": 0.5641025641025641,
+      "joint_reward": 0.006131549609810438,
+      "advice_used": false
+    },
+    {
+      "step": 16,
+      "action": "ADD_HEAVY",
+      "score_before": 0.5641025641025641,
+      "score_after": 0.6060606060606062,
+      "joint_reward": 0.04195804195804209,
+      "advice_used": false
+    },
+    {
+      "step": 17,
+      "action": "ADD_HEAVY",
+      "score_before": 0.6060606060606062,
+      "score_after": 0.5919540229885061,
+      "joint_reward": -0.01410658307210011,
+      "advice_used": false
+    },
+    {
+      "step": 18,
+      "action": "ADD_NORMAL",
+      "score_before": 0.5919540229885061,
+      "score_after": 0.5846994535519128,
+      "joint_reward": -0.0072545694365933056,
+      "advice_used": false
+    },
+    {
+      "step": 19,
+      "action": "ADD_HEAVY",
+      "score_before": 0.5846994535519128,
+      "score_after": 0.6137566137566138,
+      "joint_reward": 0.02905716020470106,
+      "advice_used": false
+    },
+    {
+      "step": 20,
+      "action": "ADD_NORMAL",
+      "score_before": 0.6137566137566138,
+      "score_after": 0.6161616161616162,
+      "joint_reward": 0.00240500240500241,
+      "advice_used": false
+    }
+  ]
+}

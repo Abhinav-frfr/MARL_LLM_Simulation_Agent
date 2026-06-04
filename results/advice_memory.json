@@ -1,0 +1,844 @@
+{
+  "successful_advice": {
+    "score_0.4_stuck_0": {
+      "action": "SHAKE",
+      "params": {
+        "duration": 30
+      },
+      "joint_reward": 0.0562661764034762,
+      "score_before": 0.3703703703703703,
+      "score_after": 0.42028985507246375
+    }
+  },
+  "advice_history": [
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4358974358974359,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.3846153846153845,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.37254901960784315,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_3",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4126984126984127,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 3
+    },
+    {
+      "key": "score_0.4_stuck_4",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 3
+      },
+      "score_before": 0.4259259259259259,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 4
+    },
+    {
+      "key": "score_0.4_stuck_5",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.3958333333333332,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 5
+    },
+    {
+      "key": "score_0.4_stuck_5",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.43478260869565216,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 6
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 30
+      },
+      "score_before": 0.4691358024691357,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.48387096774193544,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5225225225225225,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5158730158730159,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.5319148936170212,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5199999999999999,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5177304964539007,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 30
+      },
+      "score_before": 0.5333333333333333,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.6_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.6025641025641024,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.6_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.6121212121212122,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.6_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.6257309941520469,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.6_stuck_1",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.6222222222222223,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.6_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5641025641025641,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5238095238095238,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_3",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5000000000000001,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 3
+    },
+    {
+      "key": "score_0.5_stuck_4",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5222222222222224,
+      "score_after": 0.4367816091954025,
+      "outcome_joint_reward": -0.016730066802706882,
+      "steps_stuck": 4
+    },
+    {
+      "key": "score_0.5_stuck_5",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.5128205128205128,
+      "score_after": 0.5111111111111112,
+      "outcome_joint_reward": -0.056799610032368573,
+      "steps_stuck": 8
+    },
+    {
+      "key": "score_0.3_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.3333333333333333,
+      "score_after": 0.39999999999999997,
+      "outcome_joint_reward": 0.02104653996101359,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.5,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4166666666666666,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_3",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.39999999999999997,
+      "score_after": 0.42105263157894735,
+      "outcome_joint_reward": 0.009569597069597036,
+      "steps_stuck": 3
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5053763440860214,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.38888888888888884,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.392156862745098,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4404761904761903,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4404761904761903,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4479166666666666,
+      "score_after": 0.46078431372549017,
+      "outcome_joint_reward": 0.004469235719235784,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.39583333333333326,
+      "score_after": 0.40476190476190477,
+      "outcome_joint_reward": 0.0234126984126984,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.46376811594202894,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.49382716049382713,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5057471264367815,
+      "score_after": 0.46846846846846835,
+      "outcome_joint_reward": -0.02971472932888386,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4999999999999999,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.48148148148148145,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.48484848484848475,
+      "score_after": 0.45614035087719296,
+      "outcome_joint_reward": -0.07408459595959593,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.5376344086021506,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.6_stuck_0",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.5619047619047617,
+      "score_after": 0.5526315789473683,
+      "outcome_joint_reward": -0.0012585894164840739,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "ADD_NORMAL",
+      "params": {
+        "count": 3
+      },
+      "score_before": 0.3777777777777777,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "ADD_LIGHT",
+      "params": {
+        "count": 2
+      },
+      "score_before": 0.42424242424242437,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.41176470588235287,
+      "score_after": 0.40277777777777785,
+      "outcome_joint_reward": -0.0011586452762922667,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.4482758620689656,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.3888888888888888,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.48387096774193555,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.4952380952380952,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5213675213675214,
+      "score_after": 0.4954954954954955,
+      "outcome_joint_reward": 0.002469058719058656,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.37777777777777766,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.45238095238095244,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4736842105263159,
+      "score_after": 0.41666666666666674,
+      "outcome_joint_reward": 0.0004264614104430575,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.3571428571428571,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.4_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 30
+      },
+      "score_before": 0.3703703703703703,
+      "score_after": 0.42028985507246375,
+      "outcome_joint_reward": 0.0562661764034762,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.4696969696969697,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4642857142857145,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.5_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4583333333333336,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4629629629629629,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5185185185185186,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5392156862745099,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5263157894736841,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.6_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 30
+      },
+      "score_before": 0.5691056910569107,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.39583333333333326,
+      "score_after": 0.40476190476190466,
+      "outcome_joint_reward": 0.02380952380952378,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 15
+      },
+      "score_before": 0.40350877192982443,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.41379310344827586,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.4_stuck_1",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.44117647058823534,
+      "score_after": 0.36111111111111116,
+      "outcome_joint_reward": -0.016666666666666552,
+      "steps_stuck": 1
+    },
+    {
+      "key": "score_0.4_stuck_2",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4197530864197531,
+      "score_after": 0.46913580246913583,
+      "outcome_joint_reward": 0.04938271604938271,
+      "steps_stuck": 2
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.4880952380952381,
+      "score_after": 0.4404761904761904,
+      "outcome_joint_reward": -0.04761904761904767,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5405405405405407,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 0
+    },
+    {
+      "key": "score_0.5_stuck_3",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5299145299145299,
+      "score_after": null,
+      "outcome_joint_reward": null,
+      "steps_stuck": 3
+    },
+    {
+      "key": "score_0.5_stuck_0",
+      "action": "SHAKE",
+      "params": {
+        "duration": 10
+      },
+      "score_before": 0.5424836601307188,
+      "score_after": 0.5576923076923077,
+      "outcome_joint_reward": 0.015208647561588906,
+      "steps_stuck": 0
+    }
+  ],
+  "advice_joint_rewards": {
+    "SHAKE": [
+      -0.016730066802706882,
+      0.02104653996101359,
+      0.009569597069597036,
+      0.004469235719235784,
+      0.0234126984126984,
+      -0.02971472932888386,
+      -0.07408459595959593,
+      -0.0011586452762922667,
+      0.002469058719058656,
+      0.0004264614104430575,
+      0.0562661764034762,
+      0.02858946608946618,
+      0.02380952380952378,
+      0.0469187675070028,
+      -0.016666666666666552,
+      0.04938271604938271,
+      -0.04761904761904767,
+      0.015208647561588906
+    ],
+    "ADD_NORMAL": [
+      -0.056799610032368573,
+      -0.0012585894164840739
+    ]
+  }
+}

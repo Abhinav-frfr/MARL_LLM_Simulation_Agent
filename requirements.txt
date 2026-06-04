@@ -1,0 +1,10 @@
+python-dotenv
+numpy
+colorama
+rich
+langchain-ollama
+ollama
+langchain
+langchain-core
+matplotlib
+torch
