@@ -19,13 +19,7 @@ A modular AI ecosystem where specialized LLM agents collaborate, reason, observe
 # 🎥 Demo Preview
 
 <p align="center">
-
-https://github.com/user-attachments/assets/your-demo-video.mp4
-
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/oqK1JpkIBtEAAAAC/ai-artificial-intelligence.gif" width="850"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="750"/>
 </p>
 
 ---
