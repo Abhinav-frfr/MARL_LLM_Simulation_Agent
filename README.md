@@ -323,22 +323,10 @@ The environment evolves based on agent interactions.
 
 Agents refine behavior using reinforcement signals.
 
----
-
-# 📈 Future Improvements
-
-* [ ] Real-time simulation dashboard
-* [ ] Memory-enabled autonomous agents
-* [ ] Vector database integration
-* [ ] RAG-powered reasoning systems
-* [ ] LangGraph orchestration
-* [ ] Distributed multi-agent execution
-* [ ] Self-improving autonomous AI networks
-* [ ] Live visualization system
 
 ---
 
-## Reinforcement Learning Cycle
+## 🔹Reinforcement Learning Cycle
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Reinforcement_learning_diagram.svg" width="700"/>
@@ -387,7 +375,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-## Abhinav Singh
+### Abhinav Singh
 
 ---
 
