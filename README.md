@@ -338,16 +338,6 @@ Agents refine behavior using reinforcement signals.
 
 ---
 
-# 🖼️ Visual Showcase
-
-## Multi-Agent Communication
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*G0V6K1mK4fN0xjLxyz.png" width="750"/>
-</p>
-
----
-
 ## Reinforcement Learning Cycle
 
 <p align="center">
